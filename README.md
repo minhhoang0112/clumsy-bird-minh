@@ -2,7 +2,9 @@
 
 Đây là phiên bản tùy chỉnh của trò chơi "Flappy Bird" sử dụng thư viện MelonJS, được chỉnh sửa và phát hành lại bởi **Hoàng Công Minh**.
 
-![Screenshot](http://i.imgur.com/Slbvt65.png)
+[![View on GitHub](https://img.shields.io/badge/View_on-GitHub-181717?logo=github)](https://github.com/minhhoang0112/clumsy-bird-minh)
+
+![Screenshot](https://raw.githubusercontent.com/minhhoang0112/clumsy-bird-minh/main/data/img/bg.png)
 
 ---
 
@@ -38,7 +40,7 @@ Bạn có thể thay đổi hình ảnh, âm thanh, và logic game tại các th
 - `js/entities/`: nhân vật
 - `js/screens/`: giao diện các màn chơi
 
-Chi tiết xem trong file `CUSTOMIZING.md`.
+Chi tiết xem trong file [`CUSTOMIZING.md`](./CUSTOMIZING.md)
 
 ---
 
@@ -47,3 +49,4 @@ Chi tiết xem trong file `CUSTOMIZING.md`.
 Đây là một dự án mã nguồn mở được sửa đổi lại cho mục đích học tập, cá nhân hoá, và chia sẻ cộng đồng.
 
 > Dự án gốc được xây dựng bởi cộng đồng, phiên bản này thuộc quyền phát hành của **Hoàng Công Minh**.
+> [👉 Xem mã nguồn tại đây](https://github.com/minhhoang0112/clumsy-bird-minh)

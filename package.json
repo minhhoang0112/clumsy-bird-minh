@@ -2,13 +2,13 @@
   "name": "clumsy-bird-minh",
   "version": "1.0.0",
   "description": "Clumsy Bird - Phiên bản tùy chỉnh bởi Hoàng Công Minh dựa trên trò chơi Flappy Bird nổi tiếng",
-  "homepage": "https://github.com/hoangcongminh/clumsy-bird-minh",
+  "homepage": "https://github.com/minhhoang0112/clumsy-bird-minh",
   "repository": {
     "type": "git",
-    "url": "https://github.com/hoangcongminh/clumsy-bird-minh.git"
+    "url": "https://github.com/minhhoang0112/clumsy-bird-minh.git"
   },
   "bugs": {
-    "url": "https://github.com/hoangcongminh/clumsy-bird-minh/issues"
+    "url": "https://github.com/minhhoang0112/clumsy-bird-minh/issues"
   },
   "license": "MIT",
   "author": {

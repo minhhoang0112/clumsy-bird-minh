@@ -37,3 +37,4 @@ Bạn có thể thay thế các hình ảnh sau trong thư mục `data/img/`.
 Bạn không cần sửa mã JavaScript nếu bạn chỉ thay đổi hình ảnh/âm thanh giữ nguyên tên và kích thước file.
 
 Đây là bản tùy chỉnh Clumsy Bird của **Hoàng Công Minh** – bạn có thể chia sẻ, phát triển và sáng tạo thêm không giới hạn!
+👉 Mã nguồn: [https://github.com/minhhoang0112/clumsy-bird-minh](https://github.com/minhhoang0112/clumsy-bird-minh)
